@@ -1,0 +1,1 @@
+alert('Hello mir, manera krutit mir');
